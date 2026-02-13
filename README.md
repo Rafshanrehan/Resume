@@ -1,2 +1,2 @@
 # Resume
-Website that displays a digital copy of my resume 
+Website that displays a digital copy of my resume (old version)
